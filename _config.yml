@@ -30,7 +30,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Pierre Allard I'am in my tenth season with the Montréal Canadiens' organization (seven as a strength & conditioning coach and three as director of the sports science & performance department). I hold a Masters in Kinesiology and I'm currently a Ph.D. student at the University of Montreal, researching on External Load in Ice Hockey using IMU.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</Strength & Conditioning> and <mark>Data Science</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -45,10 +45,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Fishing
+   - Hiking
+   - Cycling
+   - [Doing Wabinar](https://support.catapultsports.com/hc/en-us/community/posts/360006130355-Performance-Webinar-Series-Ep-4-Pierre-Allard-Adam-Douglas-Using-Wearable-Technology-in-Ice-Hockey-April-2020-?utm_campaign=GLBL%20%7C%202020%20Performance%20Webinar%20Series&utm_source=hs_email&utm_medium=email&utm_content=86419574&_hsenc=p2ANqtz-8FRyoPryvlK5WflNFb8_I7rJGsZC5N3IzsLXfsag8ZDEndIcx9b0G-8kFPCPNBCtkZgIYpgb9LI8u5dGI4OBGO1lPmXw&_hsmi=86419574)
 
 # Footer
 footer_show_references: true
